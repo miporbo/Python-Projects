@@ -12,7 +12,7 @@ checks each answer, and shows the final score.
 
 ## How to Run
 
-python quiz_game.py
+python Quiz_Game.py
 
 ## Sample Output
 
