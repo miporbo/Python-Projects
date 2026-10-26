@@ -10,9 +10,9 @@ to automation scripts. Each project is in its own folder with its own README.
 | 1 | Grade Calculator | Takes 3 subject marks, calculates average, and assigns a grade (A+ to F) | [View →](./Grade-Calculator) |
 | 2 | Quiz Game | Asks 5 questions, checks answers, tracks the score, and lets you play again | [View →](./Quiz%20Game) |
 | 3 | To-Do List App | Add, view and delete tasks from a menu, with tasks saved in a text file | [View →](./TO%20DO%20APP) |
+| 4 | Number Guessing Game | Guess a random number from 1 to 100 with hints, attempt counting and a play-again option | [View →](./Number-Guessing-Game) |
 
 ## Upcoming Projects
-- Number Guessing Game (random numbers, loops)
 - Password Generator (strings, random)
 - Contact Book (dictionaries, saving data to a file)
 - Bank Account (classes and OOP)
